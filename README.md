@@ -1,31 +1,28 @@
-# 🎉 **Buddy Official Repository** 🚀
+# 🚀 **Buddy Official Repository** 🌟
 
-Selamat datang di **Buddy Official Repo**! 🤩  
-Repo ini adalah **proyek resmi dari Buddy** yang dapat digunakan oleh siapa saja yang membutuhkan layanan hosting dan manajemen server yang **powerful**! ⚡ Namun, untuk mengakses seluruh fitur, Anda **memerlukan API Key** 🔑 yang bisa Anda beli langsung dari kami!
+Selamat datang di **Buddy Official Repo**!  
+Repo ini adalah solusi hosting yang cepat, aman, dan stabil. Anda dapat menggunakan semua fitur yang tersedia, namun **untuk akses penuh**, Anda memerlukan **API Key** 🔑.
 
-📱 **Hubungi kami untuk mendapatkan key melalui WhatsApp di**: **082387631324**
+📱 **Hubungi kami di WhatsApp** untuk mendapatkan API Key: **082387631324**
 
 ---
 
-## 📢 **Apa itu Buddy?** 🤔
-**Buddy** adalah platform hosting yang menyediakan layanan hosting server berkualitas tinggi dan mudah digunakan. 🌍 Kami dirancang untuk memberikan **kecepatan**, **keamanan**, dan **kemudahan** dalam mengelola server Anda! 🖥️💨
+## 💎 **Kenapa Buddy?**
 
-### 💥 **Fitur Utama**:
 - **Keamanan Tinggi** 🔒
-- **Pengaturan Mudah** ⚙️
-- **Hosting Cepat & Stabil** 🚀
+- **Kecepatan dan Stabilitas** 🚀
 - **Dukungan 24/7** 📞
+- **Mudah digunakan** ⚙️
 
 ---
 
-## 🔑 **Butuh API Key?**  
-Untuk menggunakan seluruh fitur Buddy, Anda memerlukan **API Key** yang bisa dibeli melalui **WhatsApp** kami. 📲  
-Hubungi kami di **082387631324** untuk mendapatkan key Anda! 🎯
+## 🔑 **Cara Mendapatkan API Key**  
+Untuk menggunakan semua fitur, Anda perlu membeli API Key. Cukup hubungi kami melalui **WhatsApp** di **082387631324**.
 
 ---
 
-## 🛠️ **Cara Menggunakan Repo Ini**:
+## 🛠️ **Cara Menggunakan Repo Ini**
 
-1. **Clone Repo**:
+1. **Clone Repository**:
    ```bash
    git clone https://github.com/imastudent112/Buddy.git
